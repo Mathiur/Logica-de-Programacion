@@ -1,4 +1,4 @@
-#¡Bienvenido al proyecto Número Secreto!
+# ¡Bienvenido al proyecto Número Secreto!
 
 ## 🚀 Desafíos del Curso 1: Practicando la Lógica de Programación
 
