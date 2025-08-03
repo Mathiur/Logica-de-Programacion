@@ -9,7 +9,7 @@ while (numeroUsuario != numeroSecreto) {
     console.log(typeof(numeroUsuario));
 
     //Este código realiza
-    //la comparación
+    //la comparaciónjj
     if (numeroUsuario == numeroSecreto) {
         //Acertamos, fue verdadera la condición
         alert(`Acertaste, el número es: ${numeroUsuario} con ${intentos} ${intentos == 1 ?"intento" : "intentos"}`);
