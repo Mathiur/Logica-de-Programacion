@@ -6,7 +6,7 @@
 
 Aquí puedes encontrar la documentación y los desafíos del primer curso:
 
-- [Desafío 1](desafiosCurso1/Desafio-1.md)
+- [Desafío 1](/NumeroSecreto%20V.1/desafiosCurso1/Desafio-1.md)
 - [Desafío 2](desafiosCurso1/Desafio-2.md)
 - [Desafío 3](desafiosCurso1/Desafio-3.md)
 - [Desafío 4](desafiosCurso1/Desafio-4.md)
