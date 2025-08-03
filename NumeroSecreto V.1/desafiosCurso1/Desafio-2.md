@@ -1,3 +1,4 @@
+<h1>Desafio 2 : Hora de Practicar</h1>
 Programar requiere práctica. Hemos creado una lista adicional de actividades (no obligatorias) para que practiques y refuerces aún más tu aprendizaje.
 
 ¿Listo para practicar?
